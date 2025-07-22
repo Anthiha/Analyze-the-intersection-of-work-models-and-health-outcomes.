@@ -12,10 +12,11 @@ The relationship between work arrangements and physical health complaints (e.g.,
 Variations in work-life balance, social isolation, and burnout levels segmented by demographic and occupational factors.
 Salary distributions and their correlation with health outcomes and job roles.
 
+
+The case is to find out the frequency/distribution of Mental_Health_Status by work type (Work_Arrangement) is studied, with a stacked bar chart, where each column shows how many had e.g. Stress Disorder, Depression, None, ADHD, etc., for each work type (Onsite, Remote, Hybrid).
+
 The outcome comes with a graph where:
 
 The horizontal axis has the types of work.
-
 The vertical axis has the number of people per mental health condition.
-
 Each column is colored by condition (ADHD, Stress, None, etc.).
