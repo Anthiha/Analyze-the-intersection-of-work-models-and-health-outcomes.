@@ -30,3 +30,5 @@ Each column is colored by condition (ADHD, Stress, None, etc.).
 
 ## Author
 Anthí Papadoúli — MSc in Computer Science, BSc in Physics
+
+---
