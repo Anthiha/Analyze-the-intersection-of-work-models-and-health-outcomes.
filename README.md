@@ -14,9 +14,9 @@ Salary distributions and their correlation with health outcomes and job roles.
 
 ## Tools Used
 
-SQL Workbench
-Excel
-Kaggle Datasets
+-SQL Workbench
+-Excel
+-Kaggle Datasets
 
 ## Key Findings
 The case is to find out the frequency/distribution of Mental_Health_Status by work type (Work_Arrangement) is studied, with a stacked bar chart, where each column shows how many had e.g. Stress Disorder, Depression, None, ADHD, etc., for each work type (Onsite, Remote, Hybrid).
